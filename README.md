@@ -1,2 +1,6 @@
 # DragonMaze_AR
-:Unpackage file .obj in assets: .
+
+Unity Augemnted Reality project
+
+## Getting Started
+Unpackage file .obj in assets.
