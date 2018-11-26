@@ -6,4 +6,4 @@ Unity Augemnted Reality project
 Unpackage file .obj in assets.
 
 
-![alt tag](http://url/to/img.png)
+![alt screen](https://github.com/iwanoisch/DragoneLabirinto_AR/blob/master/screen.png)
